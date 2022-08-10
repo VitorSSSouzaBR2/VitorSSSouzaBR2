@@ -1,4 +1,4 @@
-# <p align="center"> Olá, eu sou  🏳️‍🌈 VitorSSSouzaBR 🏳️‍🌈  / Hi, I'm 🏳️‍🌈 VitorSSSouzaBR 🏳️‍🌈 </p>
+# <p align="center"> Esta é uma conta reserva de VitorSSSouzaBR / This is a reserve account of VitorSSSouzaBR </p>
 
 
 [<p align="center">![ VitorSSSouzaBR github stats](https://github-readme-stats.vercel.app/api?username=VitorSSSouzaBR&show_icons=true&include_all_commits=false&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true)</p>](https://github.com/VitorSSSouzaBR)
