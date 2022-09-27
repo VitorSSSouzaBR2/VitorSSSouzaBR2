@@ -12,5 +12,3 @@
 
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" alt="XDA-Developers" width="25"/> XDA-Developers - [VitorSSSouza](https://forum.xda-developers.com/m/vitorsssouzabr.12277731/)
 
-- <img src="https://logodownload.org/gmail-logo/" alt="E-mail width="18"/> 
-
